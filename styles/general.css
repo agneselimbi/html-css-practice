@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(19, 19, 19);
+    color:white;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+
+}
